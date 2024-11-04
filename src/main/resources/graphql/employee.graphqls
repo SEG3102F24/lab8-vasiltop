@@ -1,1 +1,8 @@
-
+type Employee {
+	name: String?,
+	dateOfBirth: String?,
+	city: String?,
+	salary: Int?,
+	gender: String?,
+	email: String?,
+}
